@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+streamlit>=1.28.0
+streamlit-folium>=0.13.0
+earthengine-api>=0.1.370
+geemap>=0.24.0
+folium>=0.14.0
+leafmap>=0.13.0
+plotly>=5.15.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+geopandas>=0.13.0
+requests>=2.31.0
+whitebox>=2.2.0
+shapely>=2.0.0
+google-auth>=2.0.0
+setuptools
+=======
+streamlit
+pandas
+geemap
+earthengine-api
+>>>>>>> 9ba0955f04e86c2f7e986ab511406cd53ae3e8d1
